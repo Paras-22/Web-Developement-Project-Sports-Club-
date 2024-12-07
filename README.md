@@ -1,8 +1,10 @@
-# Sports Club Management System
+# Sports Club Web Application
 
 ## Overview
 
-The **Sports Club Management System** is a web-based application designed to streamline the organization and management of sports activities within a university. This platform aims to provide a user-friendly interface for students, administrators, and club leaders to facilitate event registration, member management, and activity tracking. It was developed specifically for **Auckland International College (AIC)** and **Foundation International College (FIC)**.
+The **Sports Club Management System** is a web-based application designed to streamline the organization and management of sports activities within a university. This platform aims to provide a user-friendly interface for students, administrators, and club leaders to facilitate event registration, member management, and activity tracking. It was developed specifically for **Auckland International College (AIC)** and **Foundation International College (FIC)** by **Paras**. 
+
+ **Note** - This web application is still under development and requires significant improvements in terms of functionality, design, and user experience.
 
 ---
 
